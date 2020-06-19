@@ -1,4 +1,4 @@
 # github-test
 following tutorial
 
-additionial edit
+additional edit
